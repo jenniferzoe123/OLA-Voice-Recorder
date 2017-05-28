@@ -7,26 +7,26 @@ This Privacy Policy (the “Policy”) has been established to help you understa
 your privacy, and the steps we take to ensure it.
 
 
-Non-disclosure of Personal Information
+<b>Non-disclosure of Personal Information</b>
 
 OLA Voice Recorder does not divulge any personal information gathered via 
 the Application to third parties
 
 
-No Collection of Personal Information
+<b>No Collection of Personal Information</b>
 
 OLA Voice Recorder does not gather any of your personal information 
 while you are using the Application.Under no circumstances does OLA Voice Recorder collect, download or 
 otherwise make copies of any recordings you make using the Application
 
-General Information Transfer
+<b>General Information Transfer</b>
 
 Any information or data the Application collects may be stored locally on your device. You may share 
 data between the Device and other devices via Bluetooth. 
 You may also share data using the Application’s Share function.
 
 
-Third-Party Advertisements
+<b>Third-Party Advertisements</b>
 
 You have downloaded OLA Voice Recorder,the Application uses Google, a third party vendor, to serve advertisements 
 in the Application, using the AdMob system (see http://www.google.com/ads/admob/). By using the Application, 
@@ -34,41 +34,41 @@ you consent to the delivery of these advertisements and any data collected by Go
 Privacy Policy of AdMob (found at http://www.admob.com/home/privacy).
 
 
-Permissions
+<b>Permissions</b>
 
 The following is a complete listing and description of what functions on the Device are 
 accessed and / or modified by the Application. 
 
 
-ACCESS MICROPHONE
+<b>ACCESS MICROPHONE</b>
 Allows the Application to make Recordings using the microphone.
 
 
-MODIFY AUDIO SETTINGS
+<b>MODIFY AUDIO SETTINGS</b>
 Allows an application to modify global audio settings.
 
 
-WRITE EXTERNAL STORAGE
+<b>WRITE EXTERNAL STORAGE</b>
 Allows an application to write to external storage.
 
 
-WRITE SETTINGS
+<b>WRITE SETTINGS</b>
 Allows an application to read or write the system settings.
 
 
-VIEW NETWORK CONNECTIONS
+<b>VIEW NETWORK CONNECTIONS</b>
 Allows applications to open network sockets and access information about networks.
 
 
-VIBRATE
+<b>VIBRATE</b>
 Allows access to the vibrator.
 
 
-RECEIVE_BOOT_COMPLETED
+<b>RECEIVE_BOOT_COMPLETED</b>
 Allows an application to receive the ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting.
 
 
-Contact
+<b>Contact</b>
 
 To contact me on topics related to products, privacy policy or in another case, use 
 alex.bacon111@gmail.com
