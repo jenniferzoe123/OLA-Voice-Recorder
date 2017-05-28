@@ -31,7 +31,7 @@ You may also share data using the Application’s Share function.
 You have downloaded OLA Voice Recorder,the Application uses Google, a third party vendor, to serve advertisements 
 in the Application, using the AdMob system (see http://www.google.com/ads/admob/). By using the Application, 
 you consent to the delivery of these advertisements and any data collected by Google, as per the 
-Privacy Policy of AdMob (found at http://www.admob.com/home/privacy).
+Privacy Policy of AdMob.
 
 
 <b>Permissions</b>
