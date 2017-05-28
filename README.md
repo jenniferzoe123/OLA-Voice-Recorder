@@ -40,31 +40,31 @@ The following is a complete listing and description of what functions on the Dev
 accessed and / or modified by the Application. 
 
 
-ACCESS MICROPHONE
+ACCESS MICROPHONE:
 Allows the Application to make Recordings using the microphone.
 
 
-MODIFY AUDIO SETTINGS
+MODIFY AUDIO SETTINGS:
 Allows an application to modify global audio settings.
 
 
-WRITE EXTERNAL STORAGE
+WRITE EXTERNAL STORAGE:
 Allows an application to write to external storage.
 
 
-WRITE SETTINGS
+WRITE SETTINGS:
 Allows an application to read or write the system settings.
 
 
-VIEW NETWORK CONNECTIONS
+VIEW NETWORK CONNECTIONS:
 Allows applications to open network sockets and access information about networks.
 
 
-VIBRATE
+VIBRATE:
 Allows access to the vibrator.
 
 
-RECEIVE_BOOT_COMPLETED
+RECEIVE_BOOT_COMPLETED:
 Allows an application to receive the ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting.
 
 
