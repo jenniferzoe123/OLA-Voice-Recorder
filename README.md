@@ -1,5 +1,5 @@
 
-Privacy Policy
+<b>Privacy Policy </b>
 
 Thank you for downloading OLA Voice Recorder.It is the policy of OLA Voice Recorder to respect your privacy, 
 and the privacy of all users of our applications. 
