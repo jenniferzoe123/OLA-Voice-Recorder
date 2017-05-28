@@ -1,2 +1,2 @@
 # OLA-Voice-Recorder
-Fast Voice Recording app
+OLA-Voice-Recorder
