@@ -32,8 +32,7 @@ You have downloaded OLA Voice Recorder,the Application uses Google, a third part
 in the Application, using the AdMob system . By using the Application, 
 you consent to the delivery of these advertisements and any data collected by Google, as per the 
 Privacy Policy of AdMob.
-* <a href="https://support.google.com/admob/answer/6128543?hl=en
-" target="_blank">Admob Policies</a> (click to see)
+* <a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">Admob Policies</a> (click to see)
 
 
 <b>Permissions</b>
