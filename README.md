@@ -33,7 +33,7 @@ in the Application, using the AdMob system . By using the Application,
 you consent to the delivery of these advertisements and any data collected by Google, as per the 
 Privacy Policy of AdMob.
 * <a href="https://support.google.com/admob/answer/6128543?hl=en
-">Admob Policies</a> (click to see)
+" target="_blank">Admob Policies</a> (click to see)
 
 
 <b>Permissions</b>
