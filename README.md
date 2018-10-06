@@ -30,7 +30,7 @@ Privacy Policy of AdMob.
 
 <b>Children’s Privacy</b>
 
-The App is for a general audience. This app do not address anyone under the age of 13. I do not collect any personally information from children under 13.
+This App is for a general audience. This app do not address anyone under the age of 13. I do not collect any personally information from children under 13.
 
 <b>Permissions</b>
 
