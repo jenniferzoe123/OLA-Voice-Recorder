@@ -7,12 +7,6 @@ This Privacy Policy (the “Policy”) has been established to help you understa
 your privacy, and the steps we take to ensure it.
 
 
-<b>Non-disclosure of Personal Information</b>
-
-OLA Voice Recorder does not divulge any personal information gathered via 
-the Application to third parties
-
-
 <b>No Collection of Personal Information</b>
 
 OLA Voice Recorder does not gather any of your personal information 
