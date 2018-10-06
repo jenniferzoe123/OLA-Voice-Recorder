@@ -72,7 +72,7 @@ RECEIVE_BOOT_COMPLETED:
 Allows an application to receive the ACTION_BOOT_COMPLETED that is broadcast after the system finishes booting.
 
 
-Contact
+<b>Contact</b>
 
 To contact me on topics related to products, privacy policy or in another case, use 
 jennifer.zoe123@gmail.com
