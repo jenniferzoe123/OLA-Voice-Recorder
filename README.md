@@ -34,6 +34,9 @@ you consent to the delivery of these advertisements and any data collected by Go
 Privacy Policy of AdMob.
 * <a href="https://support.google.com/admob/answer/6128543?hl=en">Admob Policies</a> (click to see)
 
+<b>Children’s Privacy</b>
+
+The App is for a general audience. This app do not address anyone under the age of 13. I do not collect any personally information from children under 13.
 
 <b>Permissions</b>
 
