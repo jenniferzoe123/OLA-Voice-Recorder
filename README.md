@@ -26,10 +26,10 @@ accessed and / or modified by the Application.
 
 
 CAMERA:
-Allows Application to capture photo from camera.
+Allow Application to capture photo from camera.
 
 WRITE EXTERNAL STORAGE:
-Allows application to write to external storage.
+Allow application to write to external storage.
 
 
 <b>Children’s Privacy</b>
