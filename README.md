@@ -71,7 +71,7 @@ Allows an application to receive the ACTION_BOOT_COMPLETED that is broadcast aft
 Contact
 
 To contact me on topics related to products, privacy policy or in another case, use 
-alex.bacon111@gmail.com
+jennifer.zoe123@gmail.com
 
 Best regards!
 
